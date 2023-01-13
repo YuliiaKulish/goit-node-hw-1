@@ -1,0 +1,12 @@
+node_modules
+.vscode
+.idea
+
+.a
+!lib.a
+
+/TODO
+
+build/
+
+doc/*.txt
